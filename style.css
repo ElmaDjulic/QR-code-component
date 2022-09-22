@@ -1,0 +1,31 @@
+body {
+  background-color:	#D6E2F0;  /*light gray*/
+}
+
+.kod {
+  border-radius:15px;
+  width:20%;
+  height:auto;
+  background-color:#fff;
+  margin:10% auto;
+  padding:15px;
+}
+
+.slika {
+  border-radius:10px;
+  width:100%;
+}
+
+.naslov1 {
+color:#1F3251;
+font-family: 'Outfit', sans-serif;
+text-align:center;
+font-weight: 700;
+}
+.paragraf {
+color:#7B879D;
+font-family: 'Outfit', sans-serif;
+text-align:center;
+font-weight: 400;
+font-size:15px;
+}
